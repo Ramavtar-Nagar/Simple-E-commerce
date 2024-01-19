@@ -34,6 +34,7 @@ function App() {
 
   return (
     <div className="App">
+    {/* rendering with browser router */}
       <BrowserRouter>
         <Nav />
         <Routes>
