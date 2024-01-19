@@ -1,4 +1,4 @@
-// All the required imports
+
 import Nav from "./Component/Nav";
 import ProductDetail from "./Component/ProductDetail";
 import AddProduct from "./Component/AddProduct";
